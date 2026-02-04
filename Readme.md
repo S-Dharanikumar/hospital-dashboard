@@ -73,6 +73,7 @@ The dashboard is built using **Power BI Desktop** and demonstrates:
 
 ## 🎥 Demo Video
 Google Drive link (public):
+https://drive.google.com/file/d/1_tv3wZLHsJD9eXfJ6peTJ7PR3puDOE3e/view?usp=drive_link
 
 ---
 ## 🌐 Live Backend Deployment
