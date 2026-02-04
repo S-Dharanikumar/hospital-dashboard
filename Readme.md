@@ -75,6 +75,10 @@ The dashboard is built using **Power BI Desktop** and demonstrates:
 Google Drive link (public):
 
 ---
+## 🌐 Live Backend Deployment
+Public API URL (Render):
+https://hospital-dashboard-htcf.onrender.com
+
 
 👤 Author
 
